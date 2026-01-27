@@ -1,4 +1,4 @@
-# 🔍 5 Whys Root Cause Analysis in Power BI
+# 🔍 5Whys RCA Framework PowerBI
 **5 Whys is a root cause analysis technique where you repeatedly ask “Why?” (typically 5–7 times) until you move from a visible problem to its true underlying cause.**
 - Incident Count & Financial Impact Driven RCA Framework
 
